@@ -13,3 +13,7 @@ data/processed/*.npy
 data/processed/fasttext.model*
 .streamlit/secrets.toml
 .DS_Store
+
+# documentation, presentation and submission files are kept outside the repo
+docs/
+*.zip
