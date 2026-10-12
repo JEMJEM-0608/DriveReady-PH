@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "timestamp": "2026-10-12T07:27:28",
+    "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+    "python": "3.11.15",
+    "kb_fingerprint": "db4f6b8581e9",
+    "chunks": 355,
+    "eval_questions": 53,
+    "llm_model": null,
+    "embedding_model": null
+  },
+  "results": {
+    "BM25 only": {
+      "recall@1": 0.646,
+      "recall@3": 0.792,
+      "recall@5": 0.896,
+      "mrr@10": 0.738,
+      "latency_ms_p50": 0.36,
+      "latency_ms_p95": 0.71,
+      "questions": 48
+    },
+    "LSA only": {
+      "recall@1": 0.479,
+      "recall@3": 0.771,
+      "recall@5": 0.812,
+      "mrr@10": 0.617,
+      "latency_ms_p50": 0.16,
+      "latency_ms_p95": 0.35,
+      "questions": 48
+    },
+    "Hybrid BM25+LSA": {
+      "recall@1": 0.625,
+      "recall@3": 0.792,
+      "recall@5": 0.875,
+      "mrr@10": 0.721,
+      "latency_ms_p50": 0.66,
+      "latency_ms_p95": 1.15,
+      "questions": 48
+    },
+    "FastText only": {
+      "recall@1": 0.479,
+      "recall@3": 0.667,
+      "recall@5": 0.771,
+      "mrr@10": 0.594,
+      "latency_ms_p50": 0.08,
+      "latency_ms_p95": 0.13,
+      "questions": 48
+    },
+    "Hybrid BM25+FastText": {
+      "recall@1": 0.562,
+      "recall@3": 0.729,
+      "recall@5": 0.833,
+      "mrr@10": 0.678,
+      "latency_ms_p50": 0.45,
+      "latency_ms_p95": 0.71,
+      "questions": 48
+    }
+  }
+}

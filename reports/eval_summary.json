@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "timestamp": "2026-10-12T08:19:45",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.6",
+    "kb_fingerprint": "8cb3c1893abc",
+    "chunks": 345,
+    "eval_questions": 53,
+    "llm_model": "llama3.1:8b",
+    "embedding_model": "nomic-embed-text"
+  },
+  "retrieval": {
+    "BM25 only": {
+      "recall@1": 0.646,
+      "recall@3": 0.812,
+      "recall@5": 0.854,
+      "mrr@10": 0.742,
+      "latency_ms_p50": 0.41,
+      "latency_ms_p95": 0.67,
+      "questions": 48
+    },
+    "LSA only": {
+      "recall@1": 0.521,
+      "recall@3": 0.708,
+      "recall@5": 0.792,
+      "mrr@10": 0.632,
+      "latency_ms_p50": 0.11,
+      "latency_ms_p95": 0.16,
+      "questions": 48
+    },
+    "Hybrid BM25+LSA": {
+      "recall@1": 0.625,
+      "recall@3": 0.771,
+      "recall@5": 0.854,
+      "mrr@10": 0.716,
+      "latency_ms_p50": 0.67,
+      "latency_ms_p95": 1.01,
+      "questions": 48
+    },
+    "nomic-embed only": {
+      "recall@1": 0.771,
+      "recall@3": 0.917,
+      "recall@5": 0.979,
+      "mrr@10": 0.852,
+      "latency_ms_p50": 2084.92,
+      "latency_ms_p95": 2124.71,
+      "questions": 48
+    },
+    "Hybrid BM25+nomic (app)": {
+      "recall@1": 0.708,
+      "recall@3": 0.938,
+      "recall@5": 0.958,
+      "mrr@10": 0.822,
+      "latency_ms_p50": 2089.66,
+      "latency_ms_p95": 2157.71,
+      "questions": 48
+    }
+  },
+  "answers": {
+    "model": "llama3.1:8b",
+    "questions": 53,
+    "answerable": 48,
+    "unanswerable": 5,
+    "rag_accuracy_answerable": 0.938,
+    "llm_only_accuracy_answerable": 0.562,
+    "rag_citation_rate": 0.958,
+    "rag_cited_gold_page_rate": 0.938,
+    "rag_correct_refusals": 1,
+    "llm_only_correct_refusals": 1,
+    "rag_latency_s_p50": 7.58,
+    "rag_latency_s_p95": 8.73,
+    "llm_only_latency_s_p50": 2.97
+  },
+  "quiz_generation": {
+    "generated": 16,
+    "valid": 16,
+    "validity_rate": 1.0,
+    "seconds_p50": 8.35
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "timestamp": "2026-10-12T07:33:28",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.6",
+    "kb_fingerprint": "8cb3c1893abc",
+    "chunks": 345,
+    "eval_questions": 53,
+    "llm_model": "llama3.1:8b",
+    "embedding_model": "nomic-embed-text"
+  },
+  "generated": 16,
+  "valid": 15,
+  "validity_rate": 0.938,
+  "seconds_p50": 8.65,
+  "samples": [
+    {
+      "qid": "gen-FDM-Vol1-p065-c1-14592",
+      "topic": "Road signs & traffic lights",
+      "question": "What is an example of a Regulatory Sign?",
+      "choices": [
+        "A sign that warns of a hazard ahead",
+        "A sign that indicates the direction of traffic flow",
+        "A sign that indicates the location of a parking area",
+        "A sign that prohibits U-turns"
+      ],
+      "answer": 2,
+      "explanation": "Directional is an example of a Regulatory Sign, as stated in the passage under category A.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 65",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p115-c1-97196",
+      "topic": "Road signs & traffic lights",
+      "question": "What does a FLASHING YELLOW LIGHT signal indicate?",
+      "choices": [
+        "Proceed with caution and be prepared for pedestrians who might cross the street",
+        "Slow down and proceed with caution",
+        "Bring your vehicle to a STOP and proceed only when it is safe",
+        "You can proceed, provided you yield to pedestrian and traffic lawfully using the intersection"
+      ],
+      "answer": 1,
+      "explanation": "FLASHING YELLOW LIGHT means slow down and proceed with caution.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 115",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p100-c1-32098",
+      "topic": "Pavement markings",
+      "question": "What is the purpose of the yellow diagonal lines forming an 'X' inside the intersection?",
+      "choices": [
+        "To guide vehicles turning left",
+        "To mark bus and PUV lanes",
+        "To indicate no vehicles should stay inside the intersection",
+        "To separate traffic lanes"
+      ],
+      "answer": 2,
+      "explanation": "To indicate no vehicles should stay inside the intersection",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 100",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p153-c1-96530",
+      "topic": "Right of way & intersections",
+      "question": "What happens at an intersection with no traffic sign or signal?",
+      "choices": [
+        "The vehicle on the right yields to the vehicle on the left.",
+        "The vehicle on the left yields to the vehicle on the right.",
+        "The vehicle approaching the intersection must stop.",
+        "The vehicle on the left must give way to any other vehicle in or closely approaching the intersection."
+      ],
+      "answer": 1,
+      "explanation": "At an intersection Where there is no traffic sign or signal, the vehicle on the left shall yield to the vehicle on the right.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 153",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p153-c1-88696",
+      "topic": "Right of way & intersections",
+      "question": "What should you do at an intersection with no traffic sign or signal?",
+      "choices": [
+        "Give way to any other vehicle in or approaching the intersection.",
+        "Yield to the vehicle on the left.",
+        "Stop completely at the intersection.",
+        "Proceed with caution, but yield to the vehicle on the right."
+      ],
+      "answer": 3,
+      "explanation": "At an intersection Where there is no traffic sign or signal, the vehicle on the left shall yield to the vehicle on the right.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 153",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p119-c1-71482",
+      "topic": "Speed, overtaking & lanes",
+      "question": "What is the maximum speed allowed for motor trucks, buses, and similar vehicles on a provincial open road?",
+      "choices": [
+        "50 kph",
+        "30 kph",
+        "40 kph",
+        "60 kph"
+      ],
+      "answer": 1,
+      "explanation": "The prescribed rate of speed under DPWH Memorandum April 14, 2014 is 30 kph for motor trucks, buses, and similar vehicles on a provincial open road.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 119",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p132-c1-77397",
+      "topic": "Speed, overtaking & lanes",
+      "question": "What is the minimum speed limit on expressways (except in areas where specific speed limits are posted)?",
+      "choices": [
+        "40 kph",
+        "60 kph",
+        "80 kph",
+        "120 kph"
+      ],
+      "answer": 1,
+      "explanation": "Speed limits (except in areas where specific speed limits are posted) a. Minimum: 60 kph b. Maximum: 100 kph",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 132",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p129-c1-4165",
+      "topic": "Parking & stopping",
+      "question": "What is the purpose of parking on a sloped driveway?",
+      "choices": [
+        "To prevent the vehicle from rolling into the road",
+        "To prevent the vehicle from rolling into the street",
+        "To make parking easier",
+        "To avoid road crashes"
+      ],
+      "answer": 1,
+      "explanation": "When parking on a sloped driveway, turn the wheels so that the vehicle will not roll into the street if the parking brake fails.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 129",
+      "origin": "generated"
+    }
+  ]
+}

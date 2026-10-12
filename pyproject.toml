@@ -1,0 +1,21 @@
+[project]
+name = "driveready-ph"
+version = "1.0.0"
+description = "LTO driver's exam reviewer using RAG, a local open-source LLM (Ollama) and an RL adaptive quiz"
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 125
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["driveready"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore:ARC4:Warning"]

@@ -1,0 +1,13 @@
+# Core (pure-Python friendly; no PyTorch needed - embeddings come from Ollama)
+numpy>=1.26
+pypdf>=4.0
+rank-bm25>=0.2.2
+requests>=2.31
+streamlit>=1.36
+pandas>=2.0
+matplotlib>=3.8
+# Development
+pytest>=8.0
+ruff>=0.5
+# Optional (Python <= 3.12 only): FastText embeddings used in the evaluation
+#   pip install gensim

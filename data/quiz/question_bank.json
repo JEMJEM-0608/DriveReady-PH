@@ -1,0 +1,992 @@
+[
+  {
+    "qid": "B001",
+    "topic": "Road signs & traffic lights",
+    "question": "What does a flashing red light mean?",
+    "choices": [
+      "Turn right only",
+      "Slow down and proceed with caution",
+      "Stop, then go only when it is safe to do so",
+      "Proceed; you have the right of way"
+    ],
+    "answer": 2,
+    "explanation": "A flashing red signal means bring your vehicle to a stop and proceed only when it is safe.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 174 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B002",
+    "topic": "Road signs & traffic lights",
+    "question": "What does a flashing yellow light mean?",
+    "choices": [
+      "You must come to a full stop",
+      "The signal is broken; ignore it",
+      "Only public utility vehicles may proceed",
+      "You can proceed through the intersection with caution"
+    ],
+    "answer": 3,
+    "explanation": "A flashing yellow light means slow down and proceed with caution.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 174 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B003",
+    "topic": "Road signs & traffic lights",
+    "question": "A steady yellow traffic light means:",
+    "choices": [
+      "Speed up to clear the intersection",
+      "Slow down and prepare to stop",
+      "Turning vehicles have priority",
+      "Stop only if pedestrians are crossing"
+    ],
+    "answer": 1,
+    "explanation": "Disregarding the yellow light is considered beating the red light, tantamount to reckless driving.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 184 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B004",
+    "topic": "Road signs & traffic lights",
+    "question": "Signs that inform road users of traffic laws, which constitute an offense if disregarded, are called:",
+    "choices": [
+      "Guide signs",
+      "Informative signs",
+      "Regulatory signs",
+      "Warning signs"
+    ],
+    "answer": 2,
+    "explanation": "Regulatory signs inform road users of traffic laws and regulations.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B005",
+    "topic": "Road signs & traffic lights",
+    "question": "Signs used to warn motorists of potentially hazardous conditions on or near the road are called:",
+    "choices": [
+      "Directional signs",
+      "Caution or warning signs",
+      "Regulatory signs",
+      "Service signs"
+    ],
+    "answer": 1,
+    "explanation": "Warning signs alert drivers to hazards ahead.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B006",
+    "topic": "Road signs & traffic lights",
+    "question": "What is the meaning of an inverted triangle sign?",
+    "choices": [
+      "No entry",
+      "Road works ahead",
+      "Give way",
+      "Stop"
+    ],
+    "answer": 2,
+    "explanation": "The inverted triangle (red border) means yield the right of way.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 169 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B007",
+    "topic": "Road signs & traffic lights",
+    "question": "The shape of a STOP sign is:",
+    "choices": [
+      "Inverted triangle",
+      "Diamond",
+      "Circle",
+      "Octagon"
+    ],
+    "answer": 3,
+    "explanation": "The STOP sign is octagonal; stop at the stop line.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 187 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B008",
+    "topic": "Road signs & traffic lights",
+    "question": "A green arrow traffic light means:",
+    "choices": [
+      "Pedestrians may cross",
+      "Vehicles turning in that direction may proceed",
+      "Only buses may turn",
+      "All vehicles must stop"
+    ],
+    "answer": 1,
+    "explanation": "A green arrow allows vehicles turning in the arrow's direction to proceed.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 176 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B009",
+    "topic": "Road signs & traffic lights",
+    "question": "An orange traffic sign means:",
+    "choices": [
+      "A school zone is ahead",
+      "A gasoline station is nearby",
+      "There is roadwork ahead and you must follow the prescribed speed limit",
+      "The road ends"
+    ],
+    "answer": 2,
+    "explanation": "Orange signs are used for road works.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 182 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B010",
+    "topic": "Pavement markings",
+    "question": "What do double yellow solid lines mean?",
+    "choices": [
+      "Overtaking is allowed when safe",
+      "Parking is allowed",
+      "Lane for buses only",
+      "No crossing and no overtaking"
+    ],
+    "answer": 3,
+    "explanation": "Double solid yellow lines: no overtaking and no crossing.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 169 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B011",
+    "topic": "Pavement markings",
+    "question": "A single solid yellow line allows you to cross only:",
+    "choices": [
+      "When the road is clear for 100 meters",
+      "When turning into a driveway",
+      "When overtaking a slow vehicle",
+      "At night"
+    ],
+    "answer": 1,
+    "explanation": "On a single solid yellow line crossing is allowed but overtaking is not.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 176 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B012",
+    "topic": "Pavement markings",
+    "question": "Broken yellow lines allow motorists:",
+    "choices": [
+      "Nothing; they are decorative",
+      "To park along the line",
+      "To stop for passengers",
+      "To overtake and cross when it is safe"
+    ],
+    "answer": 3,
+    "explanation": "Broken yellow line: crossing and overtaking allowed with precaution.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 181 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B013",
+    "topic": "Pavement markings",
+    "question": "On a two-way road, a single white broken line:",
+    "choices": [
+      "Marks the road shoulder",
+      "Means no overtaking",
+      "Separates traffic moving in opposite directions",
+      "Marks a bus lane"
+    ],
+    "answer": 2,
+    "explanation": "A broken white center line separates opposing traffic.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 170 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B014",
+    "topic": "Pavement markings",
+    "question": "The white broken line between lanes means:",
+    "choices": [
+      "Changing lanes is prohibited",
+      "Stop line ahead",
+      "Overtaking or changing lanes is allowed if it is safe",
+      "Lane reserved for motorcycles"
+    ],
+    "answer": 2,
+    "explanation": "Broken lane lines allow lane changes when safe.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 187 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B015",
+    "topic": "Pavement markings",
+    "question": "Can a motorcyclist stop inside a yellow box?",
+    "choices": [
+      "Yes, if the light is red",
+      "Only when loading passengers",
+      "Yes, for up to one minute",
+      "No, stopping inside a yellow box is not allowed at any instance"
+    ],
+    "answer": 3,
+    "explanation": "Yellow box = do not block the intersection.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 181 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B016",
+    "topic": "Pavement markings",
+    "question": "The rumble strips across the road are intended to:",
+    "choices": [
+      "Make you alert and aware of your speed",
+      "Mark a parking area",
+      "Show the center of the road",
+      "Indicate a bike lane"
+    ],
+    "answer": 0,
+    "explanation": "Rumble strips give visual, audio and motion warnings.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 171 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B017",
+    "topic": "Pavement markings",
+    "question": "What is the purpose of a cat's eye on the road?",
+    "choices": [
+      "Installed as a substitute to broken lines",
+      "To indicate a toll gate",
+      "To mark a pedestrian lane",
+      "To show speed limits"
+    ],
+    "answer": 0,
+    "explanation": "Raised pavement markers (cat's eyes) substitute for broken lines.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 185 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B018",
+    "topic": "Right of way & intersections",
+    "question": "If two vehicles approach an intersection at approximately the same time, which has the right of way?",
+    "choices": [
+      "The bigger vehicle",
+      "The vehicle on the right",
+      "The vehicle on the left",
+      "The faster vehicle"
+    ],
+    "answer": 1,
+    "explanation": "The vehicle on the left yields to the vehicle on the right (R.A. No. 4136).",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 170 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B019",
+    "topic": "Right of way & intersections",
+    "question": "Which vehicles have the right of way at a rotunda or roundabout?",
+    "choices": [
+      "Public utility vehicles",
+      "The vehicles within the roundabout",
+      "The vehicles coming from the right",
+      "The vehicles about to enter"
+    ],
+    "answer": 1,
+    "explanation": "Yield to vehicles already inside the roundabout.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 176 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B020",
+    "topic": "Right of way & intersections",
+    "question": "A driver on a highway shall yield the right of way to:",
+    "choices": [
+      "Tricycles",
+      "Private cars",
+      "Delivery trucks",
+      "Police vehicles, fire trucks, and ambulances"
+    ],
+    "answer": 3,
+    "explanation": "Emergency vehicles on official business sounding audible signals have priority.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 169 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B021",
+    "topic": "Right of way & intersections",
+    "question": "When approaching a crosswalk or pedestrian lane, you should:",
+    "choices": [
+      "Slow down and stop to yield to pedestrians",
+      "Speed up before pedestrians step in",
+      "Sound your horn and continue",
+      "Flash your headlights"
+    ],
+    "answer": 0,
+    "explanation": "Drivers yield to pedestrians crossing within a crosswalk.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 173 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B022",
+    "topic": "Right of way & intersections",
+    "question": "When an emergency vehicle approaches behind you with a siren and flashing lights, you must:",
+    "choices": [
+      "Race ahead of it",
+      "Slow down to stop and give way",
+      "Follow closely behind it",
+      "Stop in the middle of the lane"
+    ],
+    "answer": 1,
+    "explanation": "Give way to emergency vehicles.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 178 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B023",
+    "topic": "Right of way & intersections",
+    "question": "When you see an intersection with a blank inverted triangle sign, you should:",
+    "choices": [
+      "Turn right only",
+      "Stop for 10 seconds",
+      "Proceed; you have priority",
+      "Slow down and give way to any vehicle in the intersection"
+    ],
+    "answer": 3,
+    "explanation": "An inverted triangle means give way.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 181 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B024",
+    "topic": "Right of way & intersections",
+    "question": "If you are in doubt while approaching an intersection, you must:",
+    "choices": [
+      "Speed up",
+      "Yield the right of way to avoid a road crash",
+      "Flash your hazard lights and go",
+      "Sound the horn and proceed"
+    ],
+    "answer": 1,
+    "explanation": "When in doubt, yield.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 185 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B025",
+    "topic": "Right of way & intersections",
+    "question": "Before turning, you are required to give way to:",
+    "choices": [
+      "Only buses",
+      "Pedestrians and motor vehicles with the first priority right of way",
+      "Nobody, if you signaled",
+      "Only vehicles from the left"
+    ],
+    "answer": 1,
+    "explanation": "Turning vehicles give way to pedestrians and priority traffic.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 178 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B026",
+    "topic": "Speed, overtaking & lanes",
+    "question": "When driving within a school zone, the maximum permitted speed is:",
+    "choices": [
+      "60 kph",
+      "40 kph",
+      "30 kph",
+      "20 kph"
+    ],
+    "answer": 3,
+    "explanation": "R.A. No. 4136: 20 kph through crowded streets and school zones.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 185 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B027",
+    "topic": "Speed, overtaking & lanes",
+    "question": "The maximum speed limit for light vehicles on expressways is:",
+    "choices": [
+      "100 kph",
+      "80 kph",
+      "60 kph",
+      "120 kph"
+    ],
+    "answer": 0,
+    "explanation": "Expressway speed limits: minimum 60 kph, maximum 100 kph.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 187 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B028",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the maximum speed limit on open country roads (national road) under the law?",
+    "choices": [
+      "80 km/hr",
+      "100 km/hr",
+      "60 km/hr",
+      "120 km/hr"
+    ],
+    "answer": 0,
+    "explanation": "R.A. No. 4136 sets 80 kph for cars and motorcycles on open country roads.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 171 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B029",
+    "topic": "Speed, overtaking & lanes",
+    "question": "Where should you NOT overtake?",
+    "choices": [
+      "On a straight road with clear view",
+      "On a broken white line",
+      "On a multi-lane one-way road",
+      "At intersections and when approaching a bridge, curve, or crest"
+    ],
+    "answer": 3,
+    "explanation": "Overtaking is prohibited at intersections, curves, crests, bridges and railroads.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 175 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B030",
+    "topic": "Speed, overtaking & lanes",
+    "question": "On a two-lane road with normal traffic, overtaking is only allowed at the:",
+    "choices": [
+      "Right lane",
+      "Left lane (leftmost)",
+      "Shoulder of the road",
+      "Either lane"
+    ],
+    "answer": 1,
+    "explanation": "Overtake on the left.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 176 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B031",
+    "topic": "Speed, overtaking & lanes",
+    "question": "Which lane should you take upon merging on the expressway?",
+    "choices": [
+      "Lane 1 (innermost)",
+      "Leftmost lane",
+      "Middle lane",
+      "Rightmost lane"
+    ],
+    "answer": 3,
+    "explanation": "Merge into the rightmost lane; lane 1 is for overtaking.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 177 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B032",
+    "topic": "Speed, overtaking & lanes",
+    "question": "Are you allowed to use the shoulder of the road to pass on the right side of a car ahead?",
+    "choices": [
+      "No, it is against the law",
+      "Yes, for motorcycles",
+      "Yes, if traffic is heavy",
+      "Yes, if you sound your horn"
+    ],
+    "answer": 0,
+    "explanation": "Passing on the shoulder is prohibited (R.A. No. 4136).",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B033",
+    "topic": "Speed, overtaking & lanes",
+    "question": "Upon entering roadwork with a temporary maximum speed limit sign, you must:",
+    "choices": [
+      "Only follow it at night",
+      "Ignore it if no workers are present",
+      "Comply with the sign at all times",
+      "Drive at the normal limit"
+    ],
+    "answer": 2,
+    "explanation": "Temporary speed limits at road works must always be followed.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 172 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B034",
+    "topic": "Speed, overtaking & lanes",
+    "question": "The allowable motorcycle engine displacement for expressways is:",
+    "choices": [
+      "125cc and above",
+      "Any displacement",
+      "400cc and above",
+      "150cc and above"
+    ],
+    "answer": 2,
+    "explanation": "Motorcycles below 400cc are not allowed on expressways.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 181 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B035",
+    "topic": "Parking & stopping",
+    "question": "Never park or stop at the side of the road within ____ of a fire hydrant.",
+    "choices": [
+      "1 meter",
+      "10 meters",
+      "4 meters",
+      "20 meters"
+    ],
+    "answer": 2,
+    "explanation": "No parking within four meters of a fire hydrant (R.A. No. 4136).",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 184 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B036",
+    "topic": "Parking & stopping",
+    "question": "A driver must not park at the side of the road with a STOP sign or traffic control signal within:",
+    "choices": [
+      "2 meters",
+      "1 meter",
+      "6 meters",
+      "15 meters"
+    ],
+    "answer": 2,
+    "explanation": "No parking within 6 meters of a STOP sign.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 169 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B037",
+    "topic": "Parking & stopping",
+    "question": "When parking downhill, you must:",
+    "choices": [
+      "Turn your wheels toward the curb",
+      "Keep the wheels straight",
+      "Turn your wheels away from the curb",
+      "Leave the engine running"
+    ],
+    "answer": 0,
+    "explanation": "Turning toward the curb keeps the vehicle from rolling into traffic.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 174 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B038",
+    "topic": "Parking & stopping",
+    "question": "Can a motorist park in a pedestrian lane?",
+    "choices": [
+      "Yes, at night",
+      "Yes, for five minutes",
+      "Yes, with hazard lights on",
+      "No, not in any circumstances"
+    ],
+    "answer": 3,
+    "explanation": "Parking on a crosswalk violates R.A. No. 4136.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 186 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B039",
+    "topic": "Parking & stopping",
+    "question": "You entered a full parking area except for a vacant PWD space. You can:",
+    "choices": [
+      "Not park there unless you are or are with a PWD",
+      "Park there for a short time",
+      "Park there if you pay extra",
+      "Park there at night"
+    ],
+    "answer": 0,
+    "explanation": "PWD parking spaces are intended only for PWDs.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 178 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B040",
+    "topic": "Parking & stopping",
+    "question": "Are you allowed to leave your vehicle with the engine running at a complete stop on the road?",
+    "choices": [
+      "No, not at any time",
+      "Yes, if the hazard lights are on",
+      "Yes, in a provincial road",
+      "Yes, for less than 5 minutes"
+    ],
+    "answer": 0,
+    "explanation": "It may confuse other motorists and cause a road crash.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 177 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B041",
+    "topic": "Parking & stopping",
+    "question": "Where is the right place to stop for passengers boarding or alighting within the city?",
+    "choices": [
+      "At loading and unloading zones only",
+      "In the middle of the intersection",
+      "Anywhere along the curb",
+      "On the pedestrian lane"
+    ],
+    "answer": 0,
+    "explanation": "Load and unload only at designated zones.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 166 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B042",
+    "topic": "Parking & stopping",
+    "question": "When driving on expressways, you may stop to attend or call for an emergency:",
+    "choices": [
+      "Anywhere on the shoulder while moving",
+      "At the toll gate lane",
+      "On the lay-by",
+      "On Lane 1"
+    ],
+    "answer": 2,
+    "explanation": "Stopping on expressways is only allowed in designated places.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 178 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B043",
+    "topic": "Licensing & documents",
+    "question": "What documents should a driver carry at all times when driving?",
+    "choices": [
+      "Insurance policy only",
+      "Passport and barangay clearance",
+      "Driver's license, Certificate of Registration, and current Official Receipt",
+      "Birth certificate only"
+    ],
+    "answer": 2,
+    "explanation": "Always carry your DL and the vehicle's OR/CR.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B044",
+    "topic": "Licensing & documents",
+    "question": "How long is a student-driver's permit (SP) valid?",
+    "choices": [
+      "Five years",
+      "Until you get a license",
+      "One (1) year from issuance",
+      "Six months"
+    ],
+    "answer": 2,
+    "explanation": "The SP is valid for one year from the date of issuance.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 8",
+    "origin": "bank"
+  },
+  {
+    "qid": "B045",
+    "topic": "Licensing & documents",
+    "question": "What is the minimum age for a Filipino to apply for a student-driver's permit?",
+    "choices": [
+      "16 years old",
+      "18 years old",
+      "21 years old",
+      "15 years old"
+    ],
+    "answer": 0,
+    "explanation": "Filipinos at least 16 years old may apply for an SP.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 15",
+    "origin": "bank"
+  },
+  {
+    "qid": "B046",
+    "topic": "Licensing & documents",
+    "question": "What is the minimum age to apply for a new non-professional driver's license?",
+    "choices": [
+      "18 years old",
+      "16 years old",
+      "20 years old",
+      "17 years old"
+    ],
+    "answer": 3,
+    "explanation": "NPDL applicants must be at least 17 years old.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 19",
+    "origin": "bank"
+  },
+  {
+    "qid": "B047",
+    "topic": "Licensing & documents",
+    "question": "Which of the following is a qualification of a professional driver?",
+    "choices": [
+      "Must be able to read and write",
+      "Must own a vehicle",
+      "Must live in Metro Manila",
+      "Must be a college graduate"
+    ],
+    "answer": 0,
+    "explanation": "Applicants must be able to read and write in Filipino, English or a major dialect.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 179 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B048",
+    "topic": "Licensing & documents",
+    "question": "A driver's license holder with no violations during the five-year period is entitled to a license valid for:",
+    "choices": [
+      "Lifetime",
+      "Ten (10) years",
+      "Five years again",
+      "Three years"
+    ],
+    "answer": 1,
+    "explanation": "R.A. No. 10930 allows a 10-year license for drivers without violations.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 19",
+    "origin": "bank"
+  },
+  {
+    "qid": "B049",
+    "topic": "Licensing & documents",
+    "question": "Holders of a DL with the MT (manual transmission) clutch code are allowed to drive:",
+    "choices": [
+      "Both manual and automatic transmission vehicles",
+      "Manual vehicles only",
+      "Automatic vehicles only",
+      "Motorcycles only"
+    ],
+    "answer": 0,
+    "explanation": "MT holders may operate AT vehicles, but AT holders may not operate MT vehicles.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 11",
+    "origin": "bank"
+  },
+  {
+    "qid": "B050",
+    "topic": "Licensing & documents",
+    "question": "The certification issued by the LTFRB for a Public Utility Vehicle (PUV) is called:",
+    "choices": [
+      "Certificate of Public Convenience (CPC)",
+      "Mayor's Permit",
+      "Official Receipt",
+      "Certificate of Registration"
+    ],
+    "answer": 0,
+    "explanation": "PUV operators secure a CPC (franchise) from LTFRB.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 187 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B051",
+    "topic": "Traffic laws & penalties",
+    "question": "Aside from the fine, what is the additional penalty for not wearing a seatbelt on the third offense?",
+    "choices": [
+      "Impounding of vehicle for a year",
+      "Community service",
+      "Revocation of license",
+      "Suspension of driver's license for one (1) week"
+    ],
+    "answer": 3,
+    "explanation": "R.A. No. 8750: third offense = Php 5,000 plus one-week license suspension.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 187 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B052",
+    "topic": "Traffic laws & penalties",
+    "question": "To avoid suspension, a driver must settle their apprehension within:",
+    "choices": [
+      "30 days",
+      "7 days",
+      "60 days",
+      "15 days"
+    ],
+    "answer": 3,
+    "explanation": "Unpaid penalties after 15 days cause automatic 30-day suspension.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 169 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B053",
+    "topic": "Traffic laws & penalties",
+    "question": "Under R.A. No. 10913 (Anti-Distracted Driving Act), using a mobile phone is permitted if the driver uses a:",
+    "choices": [
+      "Phone while stopped at a red light",
+      "Hands-free communication device",
+      "Phone with the screen dimmed",
+      "Phone holder on the dashboard"
+    ],
+    "answer": 1,
+    "explanation": "Hands-free devices are allowed; handheld use is prohibited.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 172 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B054",
+    "topic": "Traffic laws & penalties",
+    "question": "Under R.A. No. 11229, a child 12 years old and below cannot sit in a moving vehicle without a:",
+    "choices": [
+      "Adult on the lap",
+      "Window shade",
+      "Pillow",
+      "Child restraint system"
+    ],
+    "answer": 3,
+    "explanation": "The Child Safety in Motor Vehicles Act requires a child restraint system.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 177 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B055",
+    "topic": "Traffic laws & penalties",
+    "question": "Under R.A. No. 10666, a child may back ride on a motorcycle when:",
+    "choices": [
+      "The trip is short",
+      "The child wears a cap",
+      "The rider is a parent",
+      "The child needs to be transported to a hospital for immediate medical attention"
+    ],
+    "answer": 3,
+    "explanation": "Medical emergency is the exemption under the Children's Safety on Motorcycles Act.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 172 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B056",
+    "topic": "Traffic laws & penalties",
+    "question": "If a driver operates a vehicle with a blinking or flashing brake light, he/she will be apprehended for:",
+    "choices": [
+      "Overspeeding",
+      "Obstruction",
+      "Reckless driving",
+      "Illegal modification"
+    ],
+    "answer": 3,
+    "explanation": "Unauthorized lights are illegal modifications (JAO 2014-01).",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 177 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B057",
+    "topic": "Traffic laws & penalties",
+    "question": "Is it proper to negotiate with an enforcer if apprehended for a violation?",
+    "choices": [
+      "Yes, if the fine is small",
+      "Yes, to settle quickly",
+      "Only for first offenses",
+      "No, contest it at the proper adjudication office"
+    ],
+    "answer": 3,
+    "explanation": "Negotiating a violation is improper.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 179 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B058",
+    "topic": "Traffic laws & penalties",
+    "question": "What do you call a public utility vehicle operating with a suspended or cancelled CPC?",
+    "choices": [
+      "Colorum",
+      "Express",
+      "Habal-habal",
+      "Kabit"
+    ],
+    "answer": 0,
+    "explanation": "Operating without a valid franchise is colorum (JAO 2014-01).",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 165 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B059",
+    "topic": "Safe driving & emergencies",
+    "question": "At a normal speed, a good rule for following distance is to leave a car length or follow the:",
+    "choices": [
+      "2-second rule",
+      "10-second rule",
+      "Half-second rule",
+      "1-meter rule"
+    ],
+    "answer": 0,
+    "explanation": "Stay at least two or three seconds behind the vehicle in front.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 175 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B060",
+    "topic": "Safe driving & emergencies",
+    "question": "How do you use the Early Warning Device (EWD) when your vehicle is stalled?",
+    "choices": [
+      "Put it on the roof",
+      "Place it 1 meter behind only",
+      "Place it 4 meters in front and 4 meters behind the stalled vehicle",
+      "Hold it while waving at traffic"
+    ],
+    "answer": 2,
+    "explanation": "Use a pair of EWDs at the front and rear of a stalled vehicle.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 166 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B061",
+    "topic": "Safe driving & emergencies",
+    "question": "On a long drive, what should you do if you are tired or sleepy?",
+    "choices": [
+      "Park at an appropriate rest stop and take a short nap",
+      "Drink coffee and speed up",
+      "Open the window and keep driving",
+      "Turn up the music"
+    ],
+    "answer": 0,
+    "explanation": "Rest stops help avoid mental and physical fatigue.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B062",
+    "topic": "Safe driving & emergencies",
+    "question": "Slam (hard) braking must be avoided when driving on a wet road because:",
+    "choices": [
+      "It damages the horn",
+      "The wheels may skid and you may lose control of the steering",
+      "It wastes fuel",
+      "It turns off the engine"
+    ],
+    "answer": 1,
+    "explanation": "Hard braking on wet roads causes skids.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 185 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B063",
+    "topic": "Safe driving & emergencies",
+    "question": "While driving downhill, you can preserve your brakes by using the:",
+    "choices": [
+      "Neutral gear",
+      "Hazard lights",
+      "Engine brake",
+      "Hand brake only"
+    ],
+    "answer": 2,
+    "explanation": "Shift to a low gear and let the engine slow the vehicle.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 186 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B064",
+    "topic": "Safe driving & emergencies",
+    "question": "What hand signal must a driver give when he/she wants to stop?",
+    "choices": [
+      "Right arm waving",
+      "Left arm held down with the hand pointing to the ground",
+      "Left arm straight out horizontally",
+      "Left arm bent up at the elbow"
+    ],
+    "answer": 1,
+    "explanation": "Hand signals are given with the left arm.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B065",
+    "topic": "Safe driving & emergencies",
+    "question": "What hand signal must a driver give to turn left?",
+    "choices": [
+      "Left arm bent up at the elbow",
+      "Left arm pointing down",
+      "Waving the hand back and forth",
+      "Left arm held straight horizontally"
+    ],
+    "answer": 3,
+    "explanation": "Left arm straight out = left turn.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 168 (Reviewer, official answer)",
+    "origin": "bank"
+  },
+  {
+    "qid": "B066",
+    "topic": "Safe driving & emergencies",
+    "question": "What is the primary responsibility of a driver involved in a road crash?",
+    "choices": [
+      "Argue about who is at fault",
+      "Assess the situation and, if possible, assist the injured and call for help",
+      "Move the injured person right away",
+      "Leave the scene immediately"
+    ],
+    "answer": 1,
+    "explanation": "Stop, assess, and get help.",
+    "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 184 (Reviewer, official answer)",
+    "origin": "bank"
+  }
+]

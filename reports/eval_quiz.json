@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "timestamp": "2026-10-12T08:19:45",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.6",
+    "kb_fingerprint": "8cb3c1893abc",
+    "chunks": 345,
+    "eval_questions": 53,
+    "llm_model": "llama3.1:8b",
+    "embedding_model": "nomic-embed-text"
+  },
+  "generated": 16,
+  "valid": 16,
+  "validity_rate": 1.0,
+  "seconds_p50": 8.35,
+  "samples": [
+    {
+      "qid": "gen-FDM-Vol1-p065-c1-14592",
+      "topic": "Road signs & traffic lights",
+      "question": "What type of sign is used to warn of a railway level crossing?",
+      "choices": [
+        "Regulatory Sign",
+        "Warning Sign",
+        "Guide / Informative Sign",
+        "Traffic Instruction Sign"
+      ],
+      "answer": 2,
+      "explanation": "Warning Signs are used to warn of railway level crossings, among other hazards.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 65",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p115-c1-97196",
+      "topic": "Road signs & traffic lights",
+      "question": "What does the FLASHING YELLOW LIGHT mean?",
+      "choices": [
+        "You must stop your vehicle immediately.",
+        "You should slow down and proceed with caution.",
+        "You should yield to pedestrians and traffic.",
+        "You have right of way and can proceed without caution."
+      ],
+      "answer": 1,
+      "explanation": "FLASHING YELLOW LIGHT means slow down and proceed with caution.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 115",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p100-c1-32098",
+      "topic": "Pavement markings",
+      "question": "What is the purpose of the yellow box and diagonal lines in an intersection?",
+      "choices": [
+        "To guide vehicles to turn",
+        "To prevent vehicles from passing",
+        "To prevent vehicles from blocking the intersection",
+        "To guide pedestrians to cross"
+      ],
+      "answer": 2,
+      "explanation": "No vehicle should stay inside the box to avoid obstruction to other motorists.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 100",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p095-c1-18289",
+      "topic": "Pavement markings",
+      "question": "What type of lane marking indicates no overtaking and no crossing is allowed?",
+      "choices": [
+        "Single Solid Yellow Line",
+        "Double Solid Yellow Lines",
+        "Single Yellow Line With Broken White Line",
+        "Barrier Line"
+      ],
+      "answer": 1,
+      "explanation": "No overtaking and no crossing is allowed when encountering Double Solid Yellow Lines.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 95",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol2-p082-c1-13434",
+      "topic": "Right of way & intersections",
+      "question": "What type of vehicles are entitled to right of way even if they don't give an audible signal?",
+      "choices": [
+        "Taxis and buses",
+        "Ambulances, police, and fire department vehicles",
+        "Trucks carrying heavy loads",
+        "Motorcycles with sidecars"
+      ],
+      "answer": 1,
+      "explanation": "Ambulances, police, and fire department vehicles are entitled to right of way even if they don't give an audible signal when operated on official business.",
+      "source": "Filipino Driver's Manual, Volume 2 (2nd Edition), p. 82",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol2-p082-c1-97080",
+      "topic": "Right of way & intersections",
+      "question": "What is a circumstance that requires a driver to yield right of way?",
+      "choices": [
+        "When entering a highway from a private road",
+        "When passing another vehicle on the highway",
+        "When approaching a pedestrian crossing",
+        "When operating at night"
+      ],
+      "answer": 0,
+      "explanation": "Failure of a vehicle entering a highway from a private road or driver upon a highway to yield the right of way to all vehicles approaching on such highway.",
+      "source": "Filipino Driver's Manual, Volume 2 (2nd Edition), p. 82",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p119-c1-11395",
+      "topic": "Speed, overtaking & lanes",
+      "question": "What is the prescribed speed for motor trucks, buses, and similar vehicles on a Provincial Open Road?",
+      "choices": [
+        "40 kph",
+        "30 kph",
+        "60 kph",
+        "50 kph"
+      ],
+      "answer": 1,
+      "explanation": "The prescribed speed for motor trucks, buses, and similar vehicles on a Provincial Open Road is 30 kph.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 119",
+      "origin": "generated"
+    },
+    {
+      "qid": "gen-FDM-Vol1-p119-c1-55302",
+      "topic": "Speed, overtaking & lanes",
+      "question": "What is the prescribed rate of speed for provincial open roads for passenger cars, motorcycles, and similar vehicles?",
+      "choices": [
+        "20 kph",
+        "30 kph",
+        "40 kph",
+        "50 kph"
+      ],
+      "answer": 2,
+      "explanation": "Passenger cars, motorcycles, and similar vehicles are prescribed to drive at 40 kph in provincial open roads.",
+      "source": "Filipino Driver's Manual, Volume 1 (2nd Edition), p. 119",
+      "origin": "generated"
+    }
+  ]
+}

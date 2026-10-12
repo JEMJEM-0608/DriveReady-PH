@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+# source PDFs are downloaded by scripts/download_docs.py (LTO publications)
+data/raw/*.pdf
+# local database with user answers
+data/*.db
+# large / regenerated vector files (rebuilt by scripts/build_index.py)
+data/processed/*.npy
+data/processed/fasttext.model*
+.streamlit/secrets.toml
+.DS_Store

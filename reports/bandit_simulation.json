@@ -1,0 +1,113 @@
+{
+  "setup": {
+    "topics": 8,
+    "questions_per_session": 60,
+    "learners": 500,
+    "learning_rate_wrong": 0.15,
+    "learning_rate_right": 0.03,
+    "scenario_A": "all topics p ~ U(0.30, 0.90)",
+    "scenario_B": "2 weak topics p ~ U(0.25, 0.45), 6 strong p ~ U(0.75, 0.95)"
+  },
+  "results": {
+    "A": {
+      "Random": {
+        "final_mean_mastery": 0.7733,
+        "ci95": 0.0027,
+        "mean_gain": 0.1653,
+        "final_weakest_topic": 0.6255,
+        "share_on_two_weakest": 0.254,
+        "gain_vs_random_pct": 0.0
+      },
+      "Round-robin": {
+        "final_mean_mastery": 0.7769,
+        "ci95": 0.0027,
+        "mean_gain": 0.169,
+        "final_weakest_topic": 0.6515,
+        "share_on_two_weakest": 0.25,
+        "gain_vs_random_pct": 2.2
+      },
+      "Epsilon-greedy (ε=0.2)": {
+        "final_mean_mastery": 0.7555,
+        "ci95": 0.0035,
+        "mean_gain": 0.1476,
+        "final_weakest_topic": 0.5323,
+        "share_on_two_weakest": 0.419,
+        "gain_vs_random_pct": -10.7
+      },
+      "Thompson (γ=1.0)": {
+        "final_mean_mastery": 0.7738,
+        "ci95": 0.0031,
+        "mean_gain": 0.1659,
+        "final_weakest_topic": 0.6096,
+        "share_on_two_weakest": 0.344,
+        "gain_vs_random_pct": 0.4
+      },
+      "Thompson (γ=0.98, app)": {
+        "final_mean_mastery": 0.7757,
+        "ci95": 0.003,
+        "mean_gain": 0.1678,
+        "final_weakest_topic": 0.6258,
+        "share_on_two_weakest": 0.327,
+        "gain_vs_random_pct": 1.5
+      },
+      "Oracle (upper bound)": {
+        "final_mean_mastery": 0.7973,
+        "ci95": 0.0027,
+        "mean_gain": 0.1894,
+        "final_weakest_topic": 0.7784,
+        "share_on_two_weakest": 0.432,
+        "gain_vs_random_pct": 14.6
+      }
+    },
+    "B": {
+      "Random": {
+        "final_mean_mastery": 0.8384,
+        "ci95": 0.0016,
+        "mean_gain": 0.1107,
+        "final_weakest_topic": 0.617,
+        "share_on_two_weakest": 0.249,
+        "gain_vs_random_pct": 0.0
+      },
+      "Round-robin": {
+        "final_mean_mastery": 0.8415,
+        "ci95": 0.0014,
+        "mean_gain": 0.1138,
+        "final_weakest_topic": 0.6466,
+        "share_on_two_weakest": 0.249,
+        "gain_vs_random_pct": 2.8
+      },
+      "Epsilon-greedy (ε=0.2)": {
+        "final_mean_mastery": 0.8465,
+        "ci95": 0.0025,
+        "mean_gain": 0.1189,
+        "final_weakest_topic": 0.6294,
+        "share_on_two_weakest": 0.638,
+        "gain_vs_random_pct": 7.4
+      },
+      "Thompson (γ=1.0)": {
+        "final_mean_mastery": 0.8546,
+        "ci95": 0.0017,
+        "mean_gain": 0.127,
+        "final_weakest_topic": 0.6929,
+        "share_on_two_weakest": 0.465,
+        "gain_vs_random_pct": 14.7
+      },
+      "Thompson (γ=0.98, app)": {
+        "final_mean_mastery": 0.8535,
+        "ci95": 0.0016,
+        "mean_gain": 0.1258,
+        "final_weakest_topic": 0.6877,
+        "share_on_two_weakest": 0.412,
+        "gain_vs_random_pct": 13.6
+      },
+      "Oracle (upper bound)": {
+        "final_mean_mastery": 0.8741,
+        "ci95": 0.0015,
+        "mean_gain": 0.1465,
+        "final_weakest_topic": 0.8535,
+        "share_on_two_weakest": 0.706,
+        "gain_vs_random_pct": 32.3
+      }
+    }
+  }
+}

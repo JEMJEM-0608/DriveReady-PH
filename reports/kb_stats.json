@@ -1,0 +1,21 @@
+{
+  "chunks": 345,
+  "fingerprint": "8cb3c1893abc",
+  "dense_backends": [
+    "lsa",
+    "ollama"
+  ],
+  "build_seconds": 73.8,
+  "per_document": {
+    "FDM-Vol1": 202,
+    "FDM-Vol2": 143
+  },
+  "pages_with_text": 246,
+  "words_per_chunk": {
+    "mean": 124.0,
+    "min": 29,
+    "max": 180
+  },
+  "chunk_words_setting": 180,
+  "overlap_setting": 40
+}

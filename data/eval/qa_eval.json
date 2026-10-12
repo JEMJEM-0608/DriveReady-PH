@@ -1,0 +1,858 @@
+[
+  {
+    "id": "Q01",
+    "topic": "Road signs & traffic lights",
+    "question": "What does a flashing red traffic light mean?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 115
+      }
+    ],
+    "must_include": [
+      "stop",
+      "safe"
+    ],
+    "from": "Vol1 reviewer p174 #9"
+  },
+  {
+    "id": "Q02",
+    "topic": "Road signs & traffic lights",
+    "question": "What should a driver do when the traffic light is flashing yellow?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 115
+      }
+    ],
+    "must_include": [
+      "caution"
+    ],
+    "from": "Vol1 reviewer p174 #2"
+  },
+  {
+    "id": "Q03",
+    "topic": "Road signs & traffic lights",
+    "question": "What does a steady yellow or amber traffic signal indicate?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 115
+      }
+    ],
+    "must_include": [
+      "red|stop"
+    ],
+    "from": "Vol1 reviewer p184 #2"
+  },
+  {
+    "id": "Q04",
+    "topic": "Road signs & traffic lights",
+    "question": "What do you call signs that inform road users of traffic laws, which constitute an offense if disregarded?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 66
+      }
+    ],
+    "must_include": [
+      "regulatory"
+    ],
+    "from": "Vol1 reviewer p168 #4"
+  },
+  {
+    "id": "Q05",
+    "topic": "Road signs & traffic lights",
+    "question": "What must a driver do when approaching a GIVE WAY sign?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 66
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 153
+      }
+    ],
+    "must_include": [
+      "yield|give way|give the right"
+    ],
+    "from": "Vol1 reviewer p181 #25"
+  },
+  {
+    "id": "Q06",
+    "topic": "Road signs & traffic lights",
+    "question": "What does a green traffic signal mean for a driver?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 115
+      }
+    ],
+    "must_include": [
+      "proceed"
+    ],
+    "from": "Vol1 reviewer p185 #19"
+  },
+  {
+    "id": "Q07",
+    "topic": "Pavement markings",
+    "question": "What do double solid yellow lines on the road mean?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 95
+      }
+    ],
+    "must_include": [
+      "overtak",
+      "cross"
+    ],
+    "from": "Vol1 reviewer p169 #10"
+  },
+  {
+    "id": "Q08",
+    "topic": "Pavement markings",
+    "question": "What is allowed and not allowed on a single solid yellow line?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 95
+      }
+    ],
+    "must_include": [
+      "overtak"
+    ],
+    "from": "Vol1 reviewer p176 #29"
+  },
+  {
+    "id": "Q09",
+    "topic": "Pavement markings",
+    "question": "What does a broken yellow line allow motorists to do?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 96
+      }
+    ],
+    "must_include": [
+      "overtak|pass"
+    ],
+    "from": "Vol1 reviewer p181 #24"
+  },
+  {
+    "id": "Q10",
+    "topic": "Pavement markings",
+    "question": "What does a yellow box marking inside an intersection mean?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 100
+      }
+    ],
+    "must_include": [
+      "stay|stop|block"
+    ],
+    "from": "Vol1 reviewer p181 #22"
+  },
+  {
+    "id": "Q11",
+    "topic": "Pavement markings",
+    "question": "What are rumble strips on the road for?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 102
+      }
+    ],
+    "must_include": [
+      "warn|alert"
+    ],
+    "from": "Vol1 reviewer p171 #28"
+  },
+  {
+    "id": "Q12",
+    "topic": "Right of way & intersections",
+    "question": "If two vehicles approach an intersection at about the same time, which one has the right of way?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 120
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 153
+      }
+    ],
+    "must_include": [
+      "on the right"
+    ],
+    "from": "Vol1 reviewer p170 #22"
+  },
+  {
+    "id": "Q13",
+    "topic": "Right of way & intersections",
+    "question": "Who has the right of way at a roundabout or rotunda?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 126
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 98
+      }
+    ],
+    "must_include": [
+      "inside|within|already"
+    ],
+    "from": "Vol1 reviewer p176 #27"
+  },
+  {
+    "id": "Q14",
+    "topic": "Right of way & intersections",
+    "question": "To which vehicles must a driver on a highway yield the right of way?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 121
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 147
+      }
+    ],
+    "must_include": [
+      "ambulance|police|fire"
+    ],
+    "from": "Vol1 reviewer p169 #15"
+  },
+  {
+    "id": "Q15",
+    "topic": "Right of way & intersections",
+    "question": "What should a driver do when a pedestrian is crossing within a crosswalk?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 120
+      }
+    ],
+    "must_include": [
+      "pedestrian",
+      "yield|stop"
+    ],
+    "from": "Vol1 reviewer p173 #49"
+  },
+  {
+    "id": "Q16",
+    "topic": "Right of way & intersections",
+    "question": "What must a driver entering a highway from a private road or driveway do?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 121
+      }
+    ],
+    "must_include": [
+      "yield"
+    ],
+    "from": "RA 4136 Sec. 43"
+  },
+  {
+    "id": "Q17",
+    "topic": "Right of way & intersections",
+    "question": "What must a driver do before crossing a railroad crossing or a through highway?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 121
+      }
+    ],
+    "must_include": [
+      "stop"
+    ],
+    "from": "Vol1 reviewer p169 #11"
+  },
+  {
+    "id": "Q18",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the maximum speed when passing through a school zone?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 118
+      }
+    ],
+    "must_include": [
+      "20"
+    ],
+    "from": "Vol1 reviewer p185 #17"
+  },
+  {
+    "id": "Q19",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the maximum speed limit on expressways?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 132
+      }
+    ],
+    "must_include": [
+      "100"
+    ],
+    "from": "Vol1 reviewer p187 #32"
+  },
+  {
+    "id": "Q20",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the minimum speed on an expressway?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 132
+      }
+    ],
+    "must_include": [
+      "60"
+    ],
+    "from": "Vol1 p132"
+  },
+  {
+    "id": "Q21",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the speed limit for passenger cars on open country roads with no blind corners?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 118
+      }
+    ],
+    "must_include": [
+      "80"
+    ],
+    "from": "Vol1 reviewer p171 #34"
+  },
+  {
+    "id": "Q22",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is the speed limit for trucks and buses on open country roads?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 118
+      }
+    ],
+    "must_include": [
+      "50"
+    ],
+    "from": "RA 4136 Sec. 35"
+  },
+  {
+    "id": "Q23",
+    "topic": "Speed, overtaking & lanes",
+    "question": "What is Lane 1 (the innermost lane) of an expressway used for?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 132
+      }
+    ],
+    "must_include": [
+      "overtak|passing"
+    ],
+    "from": "Vol1 reviewer p176 #22"
+  },
+  {
+    "id": "Q24",
+    "topic": "Speed, overtaking & lanes",
+    "question": "Which motorcycles are not allowed to enter the expressway?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 131
+      }
+    ],
+    "must_include": [
+      "400"
+    ],
+    "from": "Vol1 reviewer p181 #21"
+  },
+  {
+    "id": "Q25",
+    "topic": "Speed, overtaking & lanes",
+    "question": "In what situations do the speed limits not apply?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 119
+      }
+    ],
+    "must_include": [
+      "ambulance|physician|emergency"
+    ],
+    "from": "Vol1 reviewer p187 #30"
+  },
+  {
+    "id": "Q26",
+    "topic": "Parking & stopping",
+    "question": "How far from a fire hydrant is parking prohibited?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 130
+      },
+      {
+        "doc": "FDM-Vol2",
+        "page": 79
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 70
+      }
+    ],
+    "must_include": [
+      "4|four"
+    ],
+    "from": "Vol1 reviewer p184 #1"
+  },
+  {
+    "id": "Q27",
+    "topic": "Parking & stopping",
+    "question": "Within how many meters of an intersection is parking prohibited?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 130
+      },
+      {
+        "doc": "FDM-Vol2",
+        "page": 79
+      }
+    ],
+    "must_include": [
+      "6|six"
+    ],
+    "from": "RA 4136 Sec. 54"
+  },
+  {
+    "id": "Q28",
+    "topic": "Parking & stopping",
+    "question": "Within what distance of a STOP sign is parking not allowed?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 66
+      }
+    ],
+    "must_include": [
+      "6|six"
+    ],
+    "from": "Vol1 reviewer p169 #14"
+  },
+  {
+    "id": "Q29",
+    "topic": "Parking & stopping",
+    "question": "At what angle should a vehicle be parked where angle parking is required?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 129
+      }
+    ],
+    "must_include": [
+      "45|forty"
+    ],
+    "from": "Vol1 p129"
+  },
+  {
+    "id": "Q30",
+    "topic": "Licensing & documents",
+    "question": "How long is a student-driver's permit valid?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 8
+      }
+    ],
+    "must_include": [
+      "one (1) year|1 year|one year"
+    ],
+    "from": "Vol1 p8"
+  },
+  {
+    "id": "Q31",
+    "topic": "Licensing & documents",
+    "question": "What is the minimum age to apply for a student-driver's permit?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 15
+      }
+    ],
+    "must_include": [
+      "16|sixteen"
+    ],
+    "from": "Vol1 p15"
+  },
+  {
+    "id": "Q32",
+    "topic": "Licensing & documents",
+    "question": "How old must you be to apply for a new non-professional driver's license?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 19
+      }
+    ],
+    "must_include": [
+      "17|seventeen"
+    ],
+    "from": "Vol1 p19"
+  },
+  {
+    "id": "Q33",
+    "topic": "Licensing & documents",
+    "question": "Who is entitled to a driver's license valid for ten years?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 19
+      },
+      {
+        "doc": "FDM-Vol2",
+        "page": 60
+      }
+    ],
+    "must_include": [
+      "10|ten",
+      "violation"
+    ],
+    "from": "RA 10930"
+  },
+  {
+    "id": "Q34",
+    "topic": "Licensing & documents",
+    "question": "What language requirement must a driver's license applicant meet?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 15
+      },
+      {
+        "doc": "FDM-Vol1",
+        "page": 19
+      }
+    ],
+    "must_include": [
+      "read"
+    ],
+    "from": "Vol1 reviewer p179 #2"
+  },
+  {
+    "id": "Q35",
+    "topic": "Traffic laws & penalties",
+    "question": "What is the penalty for the third offense of not wearing a seat belt?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 38
+      }
+    ],
+    "must_include": [
+      "5,000|5000",
+      "week"
+    ],
+    "from": "Vol1 reviewer p187 #31"
+  },
+  {
+    "id": "Q36",
+    "topic": "Traffic laws & penalties",
+    "question": "What is the fine for drunk driving if no one was injured?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 49
+      }
+    ],
+    "must_include": [
+      "20,000|20000",
+      "80,000|80000"
+    ],
+    "from": "RA 10586"
+  },
+  {
+    "id": "Q37",
+    "topic": "Traffic laws & penalties",
+    "question": "What happens to the license of a professional driver convicted of drunk driving for the first time?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 49
+      }
+    ],
+    "must_include": [
+      "perpetual|revocation|revoked"
+    ],
+    "from": "Vol1 reviewer p175 #16"
+  },
+  {
+    "id": "Q38",
+    "topic": "Traffic laws & penalties",
+    "question": "What happens if a driver does not pay the penalty for a traffic violation within 15 days?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 76
+      }
+    ],
+    "must_include": [
+      "suspen"
+    ],
+    "from": "Vol1 reviewer p169 #17"
+  },
+  {
+    "id": "Q39",
+    "topic": "Traffic laws & penalties",
+    "question": "How long is a Temporary Operator's Permit (TOP) valid?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 76
+      }
+    ],
+    "must_include": [
+      "72|seventy"
+    ],
+    "from": "Vol2 p76"
+  },
+  {
+    "id": "Q40",
+    "topic": "Traffic laws & penalties",
+    "question": "When may a driver use a mobile phone under the Anti-Distracted Driving Act?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 53
+      }
+    ],
+    "must_include": [
+      "emergency"
+    ],
+    "from": "Vol1 reviewer p178 #45"
+  },
+  {
+    "id": "Q41",
+    "topic": "Traffic laws & penalties",
+    "question": "What is the penalty for the third offense under the Children's Safety on Motorcycles Act (RA 10666)?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 51
+      }
+    ],
+    "must_include": [
+      "10,000|10000",
+      "suspen"
+    ],
+    "from": "Vol1 reviewer p171 #29"
+  },
+  {
+    "id": "Q42",
+    "topic": "Traffic laws & penalties",
+    "question": "Under RA 11229, up to what age is a person considered a child who needs a child restraint system?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 64
+      }
+    ],
+    "must_include": [
+      "12|twelve"
+    ],
+    "from": "Vol1 reviewer p177 #39"
+  },
+  {
+    "id": "Q43",
+    "topic": "Traffic laws & penalties",
+    "question": "What blood alcohol concentration is considered drunk for a private car driver?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 43
+      }
+    ],
+    "must_include": [
+      "0.05"
+    ],
+    "from": "RA 10586"
+  },
+  {
+    "id": "Q44",
+    "topic": "Traffic laws & penalties",
+    "question": "What is the penalty for driving without a valid driver's license?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol2",
+        "page": 76
+      }
+    ],
+    "must_include": [
+      "3,000|3000"
+    ],
+    "from": "Vol2 p76"
+  },
+  {
+    "id": "Q45",
+    "topic": "Safe driving & emergencies",
+    "question": "What is the recommended following distance behind another vehicle?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 117
+      }
+    ],
+    "must_include": [
+      "second"
+    ],
+    "from": "Vol1 reviewer p175 #13"
+  },
+  {
+    "id": "Q46",
+    "topic": "Safe driving & emergencies",
+    "question": "What is the total stopping distance of a car running at 100 kph?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 116
+      }
+    ],
+    "must_include": [
+      "80"
+    ],
+    "from": "Vol1 p116"
+  },
+  {
+    "id": "Q47",
+    "topic": "Safe driving & emergencies",
+    "question": "What should you do if your vehicle starts to skid?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 149
+      }
+    ],
+    "must_include": [
+      "brake|steer"
+    ],
+    "from": "Vol1 reviewer p185 #15"
+  },
+  {
+    "id": "Q48",
+    "topic": "Safe driving & emergencies",
+    "question": "How are hand signals for starting, stopping or turning given?",
+    "answerable": true,
+    "gold": [
+      {
+        "doc": "FDM-Vol1",
+        "page": 126
+      }
+    ],
+    "must_include": [
+      "left"
+    ],
+    "from": "Vol1 reviewer p168 #2"
+  },
+  {
+    "id": "U01",
+    "topic": "Out of scope",
+    "question": "What is the toll fee from Manila to Baguio on NLEX and TPLEX?",
+    "answerable": false,
+    "gold": [],
+    "must_include": [],
+    "from": "not in manual"
+  },
+  {
+    "id": "U02",
+    "topic": "Out of scope",
+    "question": "Which car brand has the best resale value in the Philippines?",
+    "answerable": false,
+    "gold": [],
+    "must_include": [],
+    "from": "not in manual"
+  },
+  {
+    "id": "U03",
+    "topic": "Out of scope",
+    "question": "What time does the LTO office in Quezon City open on Saturdays?",
+    "answerable": false,
+    "gold": [],
+    "must_include": [],
+    "from": "not in manual"
+  },
+  {
+    "id": "U04",
+    "topic": "Out of scope",
+    "question": "How do I replace the battery of a Tesla Model 3?",
+    "answerable": false,
+    "gold": [],
+    "must_include": [],
+    "from": "not in manual"
+  },
+  {
+    "id": "U05",
+    "topic": "Out of scope",
+    "question": "What is the current price of a liter of diesel in Metro Manila?",
+    "answerable": false,
+    "gold": [],
+    "must_include": [],
+    "from": "not in manual"
+  }
+]
